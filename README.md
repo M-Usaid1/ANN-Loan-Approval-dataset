@@ -1,4 +1,4 @@
-# ANN-Insurance-dataset-
+# ANN-Loan Approval-dataset-
 1. No Overfitting
 
 Train and val losses were nearly identical (0.147 vs 0.146) during training — the model generalized well without memorizing the training data.
